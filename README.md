@@ -1,0 +1,1 @@
+A Langgraph based sidekick project that uses web search tool like DuckDuckSearchGoRun to fetch online results, in order to produce results based on user given success criteria.
